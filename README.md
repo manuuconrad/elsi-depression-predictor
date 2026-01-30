@@ -32,6 +32,8 @@ To determine how clinical comorbidities (chronic pain, sleep quality) and behavi
 <img width="851" height="558" alt="image" src="https://github.com/user-attachments/assets/a78b4caa-4ccf-488a-aeca-198eb19eaff6" /># elsi-depression-predictor
 
 
+## 📊 Data Source: 
+This study uses data from the ELSI-Brazil, which is supported by the Brazilian Ministry of Health and the Ministry of Science, Technology, and Innovation. Citation: Lima-Costa MF, et al. The Brazilian Longitudinal Study of Aging (ELSI-Brazil): Objectives and Design. Am J Epidemiol. 2018.
 ---
 
 ## 🇮🇹 About the Author
