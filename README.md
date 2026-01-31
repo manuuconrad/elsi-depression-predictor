@@ -1,12 +1,12 @@
 
 # 🩺 Predictive Modeling of Geriatric Depression: ELSI-Brazil Study
 
-This project leverages **Data Science** and **Machine Learning** to identify clinical predictors of depression among the elderly in Brazil. Using the **ELSI-Brazil (Brazilian Longitudinal Study of Aging)** database, I developed a model to screen for high-risk profiles based on modifiable clinical factors.
+This project leverages Data Science and Machine Learning to identify clinical predictors of depression among the elderly in Brazil. Using the ELSI-Brazil (Brazilian Longitudinal Study of Aging) database, I developed a model to screen for high-risk profiles based on modifiable clinical factors.
 
 ---
 
 ## 🎯 Research Objective
-To determine how clinical comorbidities (chronic pain, sleep quality) and behavioral factors (physical activity) interact to predict depressive symptoms in a population of ~10,000 elderly individuals.
+To determine how clinical comorbidities (such as chronic pain and sleep quality) and lifestyle factors (physical activity) interact to predict depressive symptoms in a cohort of ~10,000 individuals. The goal is to provide a screening tool for early intervention in primary care settings.
 
 ## 📊 Key Findings
 
@@ -16,7 +16,7 @@ To determine how clinical comorbidities (chronic pain, sleep quality) and behavi
 | **2 Risk Factors** | 25.7% | Significant clinical increase |
 | **3 Risk Factors** | **32.3%** | **Double the baseline risk** |
 
-* **Clinical Sensitivity (Recall):** The model achieved **77% Recall**, prioritizing the identification of at-risk patients (minimizing false negatives), which is essential for public health screening.
+* **Clinical Sensitivity (Recall):** The model achieved 77% Recall, prioritizing the identification of at-risk patients (minimizing false negatives). In a public health context, high recall is essential to ensure that no patient in need of care is overlooked.
 * **The "Pain-Depression" Axis:** Chronic pain was the most significant individual predictor, acting as a primary gateway to depressive symptoms.
 
 ## 🛠️ Tech Stack & Methodology
@@ -33,10 +33,7 @@ To determine how clinical comorbidities (chronic pain, sleep quality) and behavi
 
 ## 📊 Data Source: 
 This study uses data from the ELSI-Brazil, which is supported by the Brazilian Ministry of Health and the Ministry of Science, Technology, and Innovation. Citation: Lima-Costa MF, et al. The Brazilian Longitudinal Study of Aging (ELSI-Brazil): Objectives and Design. Am J Epidemiol. 2018.
----
 
-## 🇮🇹 About the Author
-**Medical Student** (Brazil) transitioning into **Digital Science**. My goal is to bridge the gap between clinical practice and predictive analytics to improve geriatric care and public health policies. 
 
 
 
